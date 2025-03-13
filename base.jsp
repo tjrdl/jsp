@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<%
+	<%!
 		String name = "hong gill dong";
 		int a = 1;
 	%>
