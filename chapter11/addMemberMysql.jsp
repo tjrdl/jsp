@@ -37,7 +37,7 @@
 		phone2= request.getParameter("phone2");
 		phone3= request.getParameter("phone3");
 		//PreparedStatement pstmt = null;
-		try {
+		try { 
 
 			Class.forName("com.mysql.cj.jdbc.Driver");
 			//연결
